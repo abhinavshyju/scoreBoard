@@ -1,5 +1,6 @@
 {
   "name": "scoreboard",
+  "homepage": "https://abhinavshyju.github.io/scoreBoard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
